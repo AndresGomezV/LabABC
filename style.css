@@ -13,7 +13,15 @@ body {
 h3 {
   color: green;
 }
+.azul {
+  color: blue !important; 
+}
 
 #red {
   color: red;
+}
+
+
+h5 {
+  cursor: pointer; /* Indicador de clic */
 }
